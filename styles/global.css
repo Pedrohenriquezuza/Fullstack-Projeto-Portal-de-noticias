@@ -27,15 +27,33 @@ body {
   background-color: var(--bg-color);
 }
 
-a{
-    text-decoration: none;
-    color: inherit;
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
-a:hover{
-    color: var(--brand-color-light);
+a:hover {
+  color: var(--brand-color-light);
 }
 
-h1,h2,h3{
-    font: inherit;
+h1,
+h2,
+h3 {
+  font: inherit;
+}
+
+.container {
+  max-width: 1280px;
+  padding-inline: 32px;
+  margin-inline: auto;
+}
+
+/* Utility-first*/
+
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
 }
