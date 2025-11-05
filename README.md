@@ -1,4 +1,5 @@
-<img width="1646" height="616" alt="image" src="https://github.com/user-attachments/assets/988df72a-004a-4048-b8c3-5f2d66ad5742" />
+<img width="1259" height="609" alt="image" src="https://github.com/user-attachments/assets/3d80089d-4f19-46c8-8c01-617493cfc083" />
+
 
 # 📰 Portal de Notícias
 
